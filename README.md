@@ -1,5 +1,7 @@
 # GitTok
 
+像刷短视频一样发现 GitHub 开源项目，自动生成中文 README 摘要。
+
 ## 立即在线体验
 
 <p align="center">
@@ -26,6 +28,15 @@
 [在线体验 ↗](https://gittok.onrender.com/)
 
 GitTok 是一个面向中文开发者的 GitHub 仓库发现工具。它把传统的列表式 GitHub 搜索，改造成沉浸式竖向信息流：滑动浏览仓库、自动生成中文 README 摘要、查看项目图片、星标/关注作者、分享当前仓库页面，并在站内评论区或官方 Discussions 里参与讨论。
+
+适合这些场景：
+
+- 每天用碎片时间发现新的开源工具。
+- 快速看懂英文 README，不必逐个仓库点进去翻译。
+- 给自己的开源项目找曝光入口。
+- 做技术选型、周报、开源项目推荐时快速找素材。
+
+推广与投稿素材见：[第一期推广计划](docs/marketing/first-launch-plan.md)。
 
 <p align="center">
   <a href="https://github.com/Mad12345-qw/gittok"><img alt="GitHub 仓库" src="https://img.shields.io/badge/GitHub-Mad12345--qw%2Fgittok-24292f?style=for-the-badge&logo=github"></a>
@@ -317,6 +328,10 @@ npm run start
 npm run build
 npm run health
 ```
+
+## 友链
+
+- [LINUX DO](https://linux.do/)：新的理想型社区。
 
 ## 许可证
 
